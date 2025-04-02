@@ -44,7 +44,8 @@
       "extensions": [
         "GitHub.codespaces",
         "Shopify.ruby-lsp",   // https://github.com/Shopify/ruby-lsp
-        "castwide.solargraph" // https://github.com/castwide/vscode-solargraph
+        "castwide.solargraph", // https://github.com/castwide/vscode-solargraph
+        "lorankloeze.ruby-rubocop-revived"
         //"rebornix.Ruby",    // https://github.com/rubyide/vscode-ruby (Deprecated)
 
       ],
